@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoundBook</string>
+    <string name="order_entry_title"> Peça um livro </string>
+    <string name="order_edit_title"> Edite seu pedido  </string>
+    <string name="order_detail_title"> Detalhes do Pedido </string>
+</resources>
